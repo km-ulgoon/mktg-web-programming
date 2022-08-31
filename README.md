@@ -15,6 +15,8 @@ Kookmin University Digital Marketing MBA
 
 ## How to start
 
+### Youtube Tutorial
+
 [![Youtube video player](https://img.youtube.com/vi/Ey0cSSAF2vw/0.jpg)](https://www.youtube.com/watch?v=Ey0cSSAF2vw)
 
 1. Sign up github, replit
