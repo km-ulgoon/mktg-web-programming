@@ -29,6 +29,8 @@ Kookmin University Digital Marketing MBA
 
 ## Contents
 
+See all resources [here](https://github.com/km-ulgoon/web-dev-lab)
+
 - Digital literacy, Intro to Network, WWW
 - Set Configuration
 - HTML
