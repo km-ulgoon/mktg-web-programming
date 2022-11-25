@@ -303,7 +303,7 @@ var hello = 'hello';
 console.log(hello.concat(', ', 'world!'));
 
 var userName = prompt("What's your name?");
-console.log(hello.concat(', ', '${userName}'));
+console.log(hello.concat(', ', `${userName}`));
 ```
 
 ---

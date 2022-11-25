@@ -340,7 +340,8 @@ div {height: 300px;}
 ```css
 div {
   display: flex;
-  flex-direction: row;  
+  flex-direction: row; /* flex-flow: row wrap */
+  flex-wrap: wrap; /* defaul:nowrap */
 }
 ```
 
